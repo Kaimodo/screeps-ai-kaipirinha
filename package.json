@@ -18,14 +18,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Kaimodo/Screeps-kAI.git"
+    "url": "git+//github.com/Kaimodo/Screeps-ai-kaipininha.git"
   },
   "author": "",
   "license": "Unlicense",
   "bugs": {
-    "url": "https://github.com/Kaimodo/Screeps-kAI/issues"
+    "url": "//github.com/Kaimodo/Screeps-ai-kaipininha/issues"
   },
-  "homepage": "https://github.com/Kaimodo/Screeps-kAI#readme",
+  "homepage": "https://github.com/Kaimodo/Screeps-ai-kaipininha#readme",
   "devDependencies": {
     "@types/lodash": "^3.10.1",
     "@types/lodash.minby": "^4.6.3",
@@ -36,7 +36,7 @@
     "rollup-plugin-screeps": "^0.1.2",
     "rollup-plugin-typescript2": "^0.11.0",
     "tslint": "^5.8.0",
-    "typed-screeps": "^2.2.2",
+    "typed-screeps": "git+https://github.com/screepers/typed-screeps.git",
     "typedoc": "^0.5.10",
     "typescript": "^2.7.1"
   },
